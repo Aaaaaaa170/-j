@@ -1,1 +1,1 @@
-# -j
+# Vite + TypeScript + Three.js
